@@ -13,6 +13,7 @@ sequelize  sql sample
 ***
 ### blog
 
+https://knaka0209.hatenablog.com/entry/sequelize_1
 
 ***
 
