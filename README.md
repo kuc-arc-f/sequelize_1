@@ -6,8 +6,12 @@
 
  date    : 2019/08/03
 
+ update : 2020/07/20
+
+
 ***
-sequelize  sql sample
+
+### sequelize  sql sample
 
 
 ***
